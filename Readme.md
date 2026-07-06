@@ -14,7 +14,7 @@
 
 ### 🔎 About Me
 
-- 🎓 Third-year **B.Tech CSE** student at **KIIT, Bhubaneswar** — CGPA 8.0+
+- 🎓 Third-year **B.Tech CSE** student at **KIIT, Bhubaneswar** 
 - 🔐 Researching **SCADA-based smart-grid cybersecurity** using digital twins and ML
 - 📡 Currently building **`EDT-TML-I5`** — extending my SCADA framework into DDoS attack detection for Industry 5.0
 - 📝 Author of **`EDT-TML-SCADA`**, a rebuilt attack-detection pipeline targeting IEEE Access
